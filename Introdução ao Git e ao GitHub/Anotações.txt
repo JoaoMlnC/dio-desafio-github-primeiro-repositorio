@@ -1,4 +1,0 @@
-Comandos Git
-git init -> usado para criar um novo repositório git
-
-git add -> Adicionar arquivos ao índice

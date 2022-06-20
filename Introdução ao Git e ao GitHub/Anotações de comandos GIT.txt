@@ -1,0 +1,20 @@
+Comandos básicos Git
+git init -> usado para criar um novo repositório git
+
+git add -> Adicionar arquivos ao índice
+
+
+git clone -> para clonar repositórios
+
+git commit - > para commitar alterações
+git commit –m “coloque sua mensagem aqui”
+
+git push -> para subir alterações no seu repositório remoto
+
+git status -> mostra os arquivos alterados
+
+git checkout -> para criar novas branches
+git checkout -b <branch-name> para criar
+git checkout <branch-name> para entrar na branch
+
+git branch -> usado para listar branches
